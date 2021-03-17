@@ -1,59 +1,52 @@
+<?php
+require '../konfigurimi.php';
+$sqlLibrat = "SELECT * FROM librat ORDER BY id desc";
+$rezultatiLibrat = mysqli_query($conn, $sqlLibrat);
 
+if(isset($_SESSION['perdoruesId'])){
+	
+?>
+<!DOCTYPE html>
+<html> 
+	<head>
+<link rel="stylesheet" type="text/css" href="css/main2.css">
+<link rel="stylesheet" type="text/css" href="css/stili2.css">
+	<title>Biblioteka &mdash; </title>
+	</head>
+	<body>
+
+		<?php
+		require '../navbar.php';
+		require '../slider.php';
+		?>
+<h2 align="middle">Libra<p>Biblioteka e Prishtines</p></h2>
+<?php  
+		
+		while($rowLibrat = mysqli_fetch_assoc($rezultatiLibrat)){
+?>
+		
+<!-- E KE TEK NOTES KETE KOD -->
+					<div align="center" class="leftcolumn">
+    					<div class="card">
+						<a href="librat.php?id=<?php echo $rowLibrat['id'] ?>">		
+							<img class="responsive" width="400" src ="<?php echo 'fotot/'.$rowLibrat['foto']; ?>" alt="" />
+							<h3><?php echo $rowLibrat["titulli"]; ?></h3>
+							<p><?php echo $rowLibrat["autori"]; ?></p>
+							<p><?php echo $rowLibrat["pershkrimi"]; ?></p>
+						</a>
+					</div>
+				</div>
+			<?php
+
+			 } 
+ ?>
 
 <?php
-if(isset($_POST['kycu-submit'])){
-	require 'databaza.php';
+} else {
 
-	$perdoruesimail = $_POST['perdoruesimail'];
-	$password = $_POST['fjalekalimi'];
-
-	if(empty($perdoruesimail) || empty($password)){
-
-		header("Location: header.php?error=fushaTeZbrazura");
-		exit();
-
-	}
-	else {
-		$sql = "SELECT * FROM perdoruesit WHERE perdoruesiPerdoruesit=? OR emailiPerdoruesit=?;";
-		$stmt = mysqli_stmt_init($conn);
-		if(!mysqli_stmt_prepare($stmt, $sql)){
-			header("Location: header.php?error=sqlerror");
-			exit();
-		}
-		else {
-			mysqli_stmt_bind_param($stmt, "ss", $perdoruesimail, $perdoruesimail);
-			mysqli_stmt_execute($stmt);
-			$rezultati = mysqli_stmt_get_result($stmt);
-			if($row = mysqli_fetch_assoc($rezultati)){
-				$kontrolloPass = password_verify($password, $row['passiPerdoruesit']);
-				if($kontrolloPass == false){
-					header("Location: header.php?error=passiGabim");
-					exit();
-				} 
-				else if ($kontrolloPass == true){
-					session_start();
-					$_SESSION['perdoruesId'] = $row['idPerdoruesit'];
-					$_SESSION['perdoruesPerdorues'] = $row['perdoruesiPerdoruesit'];
-
-					header("Location: faqet/index.php?sukses&perdoruesimail=".$perdoruesimail);
-					exit();
-				}
-
-				else {
-					header("Location: header.php?error=passiGabim");
-					exit();
-				}
-			}
-
-			else {
-				header("Location: header.php?error=skaPerdorues");
-				exit();
-			}
-		}
-	}
-
+	header("Location: index.php");
 }
-else {
-	header("Location: header.php");
-	exit();
-}
+?>
+ </head>
+</body>
+
