@@ -1,0 +1,93 @@
+ /*Font Awesome Free Icon*/
+ @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+ /*Google fonts*/
+ @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Rubik:500,700,900&display=swap');
+/*General Style */
+.header {
+  padding: 15px 45px;
+  font-family: 'Noto Serif', serif;
+  color: white;
+  background: #f2f2fc;
+}
+body {
+	
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+  background-color: #fdf9ff;
+
+}
+
+a {
+	 text-decoration: none; }
+
+h1, p { 
+	font-family: 'Noto Serif', serif;
+	font-color: white;
+
+ }
+.fa{
+	display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+* { 
+	margin: 0px;
+	padding: 0px;
+ }
+.header .logo h1 {
+	 color: #302e4d;
+	
+	}
+
+
+.btn {
+	color: white;
+	background: #4E6166;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	display: block;
+	letter-spacing: .1em;
+	padding: 13px 20px;
+	text-decoration: none;
+}
+
+.container {
+	width: 95%;
+	margin: 5px auto 50px;
+	padding: 10px 0px 50px;
+	background: blur;
+}
+
+.container.dashboard h1 { text-align: center; margin: 25px; }
+.container.dashboard .stats a {
+	display: inline-block;
+	padding: 30px;
+	margin: 5px;
+	width: 25%;
+	text-align: center;
+	border-radius: 3px;
+	border: 1px solid #BFBCB3;
+	text-decoration: none;
+}
+
+.container.dashboard .stats a.first { margin-left: 100px; }
+.container.dashboard .stats a:hover { cursor: pointer; background-color: #E1E1E1; }
+.container.dashboard .buttons { margin-left: 15px; }
+.container.dashboard .buttons a {
+	display: inline-block;
+	margin: 10px;
+	text-decoration: none;
+	color: #444;
+	padding: 10px 25px;
+	border: none;
+	background-color: #0E7D92;
+	color: white;
+	height: auto;
+}

@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+p, h3, h2, h1{
+	color: black;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+  background-color: white;
+
+}
+
+.leftcolumn {   
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.card {
+  background-color: #26272b;
+  padding: 2px;
+  margin-top: 20px;
+  align-self: start;
+}
+
+.mesi{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
+
+.responsive {
+  width: 60%;
+  height: auto;
+}
