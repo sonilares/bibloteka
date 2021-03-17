@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"perdoru",
+				"perdoruesit"
+			],
+			[
+				"row",
+				"rowPerdorusit"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"submit",
+				"submit-menaxhim"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"content",
+				"align-content\tproperty"
+			],
+			[
+				"perdoruesi",
+				"perdoruesiPerdoruesit"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"flex",
+				"flex\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/konfigurimi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/librat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/indexLogin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/databaza.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/bibloteka.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/menaxhimiPerdorueseve.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/mesazhi2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/regjistrimi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/css/adminpanel.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/css/main2.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/shtoliber.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/slider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/tgb.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/soa.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/shelf.jpg",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/sad.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/icon.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/legend.jpeg",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/libraria.jpeg",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/mesazhet.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/navbar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/portfolio.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/reg.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/about.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/fotot/libri.png",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/mesazhi.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/css/slideshow.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/ckycu.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/css/stili2.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/shlyej.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/css/logini.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/css/stili.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/user.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bibloteca/faqet/br.php",
+		"/Users/zana/Desktop/BARDHA/SEMESTRI 3/Inxhinieri WEB/fexbox.html",
+		"/Users/zana/Desktop/css/style.css",
+		"/Users/zana/Desktop/Ushtrime4.html",
+		"/Users/zana/Desktop/BARDHA/SEMESTRI 3/fexbox.html",
+		"/Users/zana/Desktop/BARDHA/SEMESTRI 3/Bardha mazreku - detyra 3",
+		"/Users/zana/Desktop/BARDHA/SEMESTRI 3/Inxhinieri WEB/Detyra 3 bardha mazreku.html",
+		"/Users/zana/Desktop/Bardha Mazreku Detyra",
+		"/Users/zana/Desktop/BARDHA/SEMESTRI 3/CssRamiz.html",
+		"/Users/zana/Desktop/BARDHA/javatest.java",
+		"/Users/zana/Desktop/BARDHA/ubt.html",
+		"/Users/zana/Desktop/BARDHA/test",
+		"/Users/zana/Desktop/fajlli.html",
+		"/Users/zana/Desktop/ushtrimi7/Ushtrimi6.java",
+		"/Users/zana/Desktop/ushtrimi7/Ushtrimi5.java",
+		"/Users/zana/Desktop/ushtrimi7/Ushtrimi4.java",
+		"/Users/zana/Desktop/ushtrimi7/Ushtrimi3.java",
+		"/Users/zana/Desktop/ushtrimi7/Ushtrimi2.java",
+		"/Users/zana/Desktop/ushtrimi7/Ushtrimi1.java",
+		"/Users/zana/Desktop/ushtrimi 8/Ushtrimi6.java",
+		"/Users/zana/Desktop/ushtrimi 8/Ushtrimi5.java",
+		"/Users/zana/Desktop/ushtrimi 8/Ushtrimi4.java",
+		"/Users/zana/Desktop/ushtrimi 8/Ushtrimi3.java",
+		"/Users/zana/Desktop/ushtrimi 8/Ushtrimi2.java",
+		"/Users/zana/Desktop/ushtrimi 8/Ushtrimi1.java",
+		"/Ushtrimi1.java",
+		"/Users/zana/Desktop/ushtrimi6/Ushtrimi6.java",
+		"/Users/zana/Desktop/ushtrimi6/Ushtrimi5.java",
+		"/Users/zana/Desktop/ushtrimi6/Ushtrimi4.java",
+		"/Users/zana/Desktop/ushtrimi6/Ushtrimi3.java",
+		"/Users/zana/Desktop/ushtrimi6/ushtrimi2.java",
+		"/Users/zana/Desktop/ushtrimi6/ushtrimi1.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi8.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi7.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi6.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi5.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi4.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi3.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi2.java",
+		"/Users/zana/Desktop/ushtrimi5/Ushtrimi1.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi8.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi4.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi3.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi6.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi5.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi2.java",
+		"/Users/zana/Desktop/ushtrimi4/Ushtrimi7.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_6.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_5.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_4.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_3.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_2.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_1.java",
+		"/Users/zana/Desktop/SHK1/Detyra4_b.java",
+		"/Users/zana/Desktop/SHK1/Detyra4_a.java",
+		"/Users/zana/Desktop/SHK1/IncrDecr_2020.java",
+		"/Users/zana/Desktop/SHK1/Kalkulimi_2020.java",
+		"/Users/zana/Desktop/SHK1/Aritmetika2.java",
+		"/Users/zana/Desktop/SHK1/Aritmetika1.java",
+		"/Users/zana/Desktop/SHK1/Konstantet_2020.java",
+		"/Users/zana/Desktop/SHK1/TipetEThjeshta_2020.java",
+		"/Users/zana/Desktop/SHK1/TipetJoNumerike_2020.java",
+		"/Users/zana/Desktop/SHK1/NumratMePresje_2020.java",
+		"/Users/zana/Desktop/SHK1/NumratEPlote_2020.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_b.java",
+		"/Users/zana/Desktop/SHK1/Tungjatjeta.java",
+		"/Users/zana/Desktop/SHK1/ProgLang2.java",
+		"/Users/zana/Desktop/SHK1/ProLang1.java",
+		"/Users/zana/Desktop/SHK1/Tungatjeta.java",
+		"/Users/zana/Desktop/SHK1/HelloFromUbt.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi4_2.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi4_1.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi3_a.java",
+		"/Users/zana/Desktop/SHK1/Ushtrimi2.java",
+		"/Users/zana/Desktop/SHK1/Ushtirmi1.java",
+		"/Users/zana/Desktop/SHK1/Detyra1.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
